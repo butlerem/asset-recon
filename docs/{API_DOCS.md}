@@ -1,0 +1,8 @@
+This document will provide details about the APIs used in the AssetRecon project.
+
+## Example Structure
+- **Endpoint**: `/scan`
+- **Method**: `POST`
+- **Description**: Initiates an asset scan for a given target.
+- **Parameters**:
+  - `target` (string): The domain or IP to scan.
