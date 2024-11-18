@@ -42,6 +42,11 @@ AssetRecon/
 │   ├── CONTRIBUTING.md   # Contribution guidelines
 │   └── API_DOCS.md       # Planned API documentation
 │
+├── frontend/            # Frontend-related files
+│   ├── public/          # Static files (e.g., index.html)
+│   ├── src/             # Source code (React or other framework)
+│   └── package.json     # Frontend dependencies
+│
 ├── tests/                # Unit and integration tests
 │   ├── test_scan.py      # Tests for scan orchestration
 │   ├── test_port_scan.py # Tests for port scanning
