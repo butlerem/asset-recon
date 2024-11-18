@@ -1,0 +1,6 @@
+{
+  "name": "asset-recon-frontend",
+  "version": "0.1.0",
+  "description": "Frontend for the AssetRecon project",
+  "dependencies": {}
+}
